@@ -26,3 +26,16 @@ h5 {
     margin-left: 0 !important;
     padding-left: 0 !important;
 }
+
+.widget-title::after {
+    height: 0px;
+}
+
+.widget li {
+    border-bottom: none;
+    font-weight: bold;
+}
+
+.widget {
+    border: none;
+}
